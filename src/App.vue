@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>黑马头条</p>
+    <p>黑马1头条</p>
     <router-view />
   </div>
 </template>
